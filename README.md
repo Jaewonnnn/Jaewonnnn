@@ -28,5 +28,5 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)   
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaewonnnn&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaewonnnn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaewonnnn&layout=donut)
