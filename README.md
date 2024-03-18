@@ -1,5 +1,4 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20&fontAlign=40&fontAlignY=40&color=gradient)   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaewonnnn%2Fhit-counter&count_bg=%2370BBE9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ## BE Developer   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jaewonnnn&theme=flat&column=7)](https://github.com/Jaewonnnn/github-profile-trophy)
