@@ -1,7 +1,7 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20&fontAlign=40&fontAlignY=40&color=gradient)   
 
 ## BE Developer   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jaewonnnn&theme=flat&column=7)](https://github.com/Jaewonnnn/github-profile-trophy)
+
 ### INTERESTS
 
 ### 🦾 Skills
@@ -29,4 +29,4 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaewonnnn&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaewonnnn&layout=donut)
+
